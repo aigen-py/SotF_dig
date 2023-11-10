@@ -1,5 +1,5 @@
-# SotF_dig
-Sons of the Forest digging script. Created to get the "I Like Blisters" achievement.
+# Sons of the Forest digging script.
+Created to get the "I Like Blisters" achievement in less frustrating way.
 ## How to Use
 Find a place with long straight line (beach for example).
 Take the shovel prepare the digging position standing backwards to the straight line.
